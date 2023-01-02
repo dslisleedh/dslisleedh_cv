@@ -27,16 +27,17 @@
 ## Career History  
  - UST21 (Research & Development department)
    - AI Engineer (Mar. 2016 ~ current)  
- 
-## Work experience  
- - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ In progress)  
-   ![SST_SR_result](https://github.com/dslisleedh/dslisleedh_cv/blob/main/sst_sr_result.PNG)
-   
- - <b>Anomaly detection on maritime AIS data</b> (May 2022 ~ Dec. 2022)  
-   ![Model](https://github.com/dslisleedh/dslisleedh_cv/blob/main/ais_ad_aad_model.png)
-  
- - <b>Sea-fog generation prediction</b> (Apr. 2022 ~ Nov. 2022)  
-   - Used models: ML(Bagging/Boosting family), LSTM, Transformer, GFNet  
+   - Work experiences  
+     - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ In progress)  
+       ![SST_SR_result](https://github.com/dslisleedh/dslisleedh_cv/blob/main/sst_sr_result.PNG)
+       Upscaled SST data from remote sening using SISR(NAFNet) and MISR(TR-MISR) strategies.
+
+     - <b>Anomaly detection on maritime AIS data</b> (May 2022 ~ Dec. 2022)  
+       ![Model](https://github.com/dslisleedh/dslisleedh_cv/blob/main/ais_ad_aad_model.png)
+       Propose new model architecture for image-based martime AIS anomaly detection.
+
+     - <b>Sea-fog generation prediction</b> (Apr. 2022 ~ Nov. 2022)  
+        Train model with strategies to dealing with extremely imbalanced dataset.
    
 ## Frameworks I can use  
  - Tensorflow2/Keras  

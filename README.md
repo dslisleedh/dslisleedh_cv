@@ -16,6 +16,7 @@
  - <b>Kangnam Univ.</b> (Mar. 2016 ~ Feb. 2022)  
    - Department of Library Information Science  
    - Thesis: Analysis of book characteristics that affect book lending 
+   - GPA: 3.58 / 4.5  
 
 ## Research Interests  
  - Computer Vision
@@ -32,3 +33,9 @@
   
  - <b>Sea-fog generation prediction</b> (Apr. 2022 ~ Nov. 2022)  
    - Used models: ML(Bagging/Boosting family), LSTM, Transformer, GFNet  
+   
+## Frameworks I can use  
+ - Tensorflow2/Keras  
+ - Pytorch  
+ - Flax <b>(Contributor)</b>  
+ 

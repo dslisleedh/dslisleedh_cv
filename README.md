@@ -24,6 +24,11 @@
  - Generative Models  
  - Low-complexity models
  
+## Career History  
+ - UST21 (Research & Development department)
+   - Mar. 2016 ~ current
+   - AI Engineer  
+ 
 ## Work experience  
  - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ In progress)  
    ![SST_SR_result](https://github.com/dslisleedh/dslisleedh_cv/blob/main/sst_sr_result.PNG)

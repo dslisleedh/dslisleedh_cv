@@ -26,7 +26,7 @@
  
 ## Career History  
  - UST21 (Research & Development department)
-   - AI Engineer (Mar. 2016 ~ current)  
+   - AI Engineer (Mar. 2022 ~ current)  
    - Work experiences  
      - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ In progress)  
        ![SST_SR_result](https://github.com/dslisleedh/dslisleedh_cv/blob/main/sst_sr_result.PNG)

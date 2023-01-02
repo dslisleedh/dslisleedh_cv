@@ -30,7 +30,7 @@
    - Work experiences  
      - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ In progress)  
        ![SST_SR_result](https://github.com/dslisleedh/dslisleedh_cv/blob/main/sst_sr_result.PNG)
-       Upscaled SST data from remote sening using SISR(NAFNet) and MISR(TR-MISR) strategies.
+       Upscale SST data from remote sening using SISR(NAFNet) and MISR(TR-MISR) strategies.
 
      - <b>Anomaly detection on maritime AIS data</b> (May 2022 ~ Dec. 2022)  
        ![Model](https://github.com/dslisleedh/dslisleedh_cv/blob/main/ais_ad_aad_model.png)

@@ -31,4 +31,4 @@
    ![Model](https://github.com/dslisleedh/dslisleedh_cv/blob/main/ais_ad_aad_model.png)
   
  - <b>Sea-fog generation prediction</b> (Apr. 2022 ~ Nov. 2022)  
-   - Used models: ML(Gradient Boosting, Decision Tree), LSTM, Transformer, GFNet  
+   - Used models: ML(Bagging/Boosting family), LSTM, Transformer, GFNet  

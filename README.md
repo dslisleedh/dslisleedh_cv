@@ -18,7 +18,7 @@
    - Thesis: Analysis of book characteristics that affect book lending 
    - GPA: 3.58 / 4.5  
 
-## Research Interests [[Implemented List]](https://github.com/dslisleedh/dslisleedh_cv/blob/main/implemented_list.md)
+## Research Interests [[Model implementations]](https://github.com/dslisleedh/dslisleedh_cv/blob/main/implemented_list.md)
  - Computer Vision
    - Low-level vision task  
  - Generative Models  
@@ -33,7 +33,7 @@
        To upscale SST data from remote sensing, I tested two strategies: SISR and MISR. I chose NAFSR (Non-linear Activate Free Network for Super-Resolution) for SISR because of its simplicity, and TR-MISR for MISR because it is the SOTA model in the unique MISR dataset, PROBA-V. SISR (NAFSR) performed best, with a PSNR gain of +0.97 dB over MISR and +1.34 dB over bicubic interpolation at scale 4. 
        
      - <b>Sea-fog generation prediction</b> (Apr. 2022 ~ Dec. 2022)  
-        I tested various models to handle an extremely imbalanced time-series classification dataset. After the training is complete, I deploy the model to the actual service.  
+        I tested various models to handle an extremely imbalanced time-series classification dataset. After the training is complete, I deploy the model to the actual service. [[Link]](http://www.khoa.go.kr/oceanmap/pois/popup_seafog.do?lang=ko)  
         Models tested:
           - Transformer
           - GFNet

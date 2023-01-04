@@ -18,7 +18,7 @@
    - Thesis: Analysis of book characteristics that affect book lending 
    - GPA: 3.58 / 4.5  
 
-## Research Interests  
+## Research Interests [[Implemented List]](https://github.com/dslisleedh/dslisleedh_cv/blob/main/implemented_list.md)
  - Computer Vision
    - Low-level vision task  
  - Generative Models  

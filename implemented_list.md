@@ -46,11 +46,12 @@
   - VDSR [[Tensorflow2/Keras]](https://github.com/dslisleedh/SuperResolution-tensorflow2/blob/main/singleimage/vdsr.py)
   
 ## Generative Models  
-  - VAE [[Tensorflow2/Keras]](https://github.com/dslisleedh/GenerativeAutoencoders-tensorflow2/blob/main/vae.py)
+  - VAE [[Tensorflow2/Keras]](https://github.com/dslisleedh/GenerativeAutoencoders-tensorflow2/blob/main/vae.py) [[Flax]](https://github.com/dslisleedh/Generative_models-flax/blob/1b4bce4529b7098c10493ee2673bb2df59ddde2f/src/models.py#L21)
+  - MarkovianHVAE [[Flax]](https://github.com/dslisleedh/Generative_models-flax/blob/1b4bce4529b7098c10493ee2673bb2df59ddde2f/src/models.py#L48)
   - AAE [[Tensorflow2/Keras]](https://github.com/dslisleedh/GenerativeAutoencoders-tensorflow2/blob/main/aae.py)
   - CAAE [[Tensorflow2/Keras]](https://github.com/dslisleedh/GenerativeAutoencoders-tensorflow2/blob/main/caae.py)
   - DFCVAE [[Tensorflow2/Keras]](https://github.com/dslisleedh/GenerativeAutoencoders-tensorflow2/blob/main/dfcvae.py)
-  - GAN [[Tensorflow2/Keras]](https://github.com/dslisleedh/GAN-tensorflow2/blob/master/gan.py)
+  - GAN [[Tensorflow2/Keras]](https://github.com/dslisleedh/GAN-tensorflow2/blob/master/gan.py) [[Flax]](https://github.com/dslisleedh/Generative_models-flax/blob/1b4bce4529b7098c10493ee2673bb2df59ddde2f/src/models.py#L102)
   - CGAN [[Tensorflow2/Keras]](https://github.com/dslisleedh/GAN-tensorflow2/blob/master/cgan.py)
   - DCGAN [[Tensorflow2/Keras]](https://github.com/dslisleedh/GAN-tensorflow2/blob/master/dcgan.py)
   - LSGAN [[Tensorflow2/Keras]](https://github.com/dslisleedh/GAN-tensorflow2/blob/master/lsgan.py)

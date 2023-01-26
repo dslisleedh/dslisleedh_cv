@@ -47,7 +47,7 @@ I tested image-based anomaly detection, which converts AIS data into track image
      
    
 ## Things I can do ...
-  - Implement models in various frameworks(TF2/Keras, Pytorch, Flax(<b>Contributor</b>). 
+  - Implement models in various frameworks(TF2/Keras, Pytorch, Flax(<b>Contributor</b>)). 
   - Propose a new model architecture suitable for the situation.
   
  

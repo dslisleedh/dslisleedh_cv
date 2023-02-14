@@ -38,7 +38,7 @@ I tested image-based anomaly detection, which converts AIS data into track image
    - Thesis: Analysis of book characteristics that affect book lending 
    - GPA: 3.58 / 4.5  
 
-## Research Interests [[Model implementations]](https://github.com/dslisleedh/dslisleedh_cv/blob/main/implemented_list.md)
+## Research Interests  
  - Computer Vision
    - Low-level vision task  
  - Generative Models  

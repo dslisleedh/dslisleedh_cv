@@ -48,6 +48,7 @@ I tested image-based anomaly detection, which converts AIS data into track image
  <summary> <b>Model Implementations(Click!)</b> </summary>
  
  ### Computer Vision Models  
+  - DualPatchNorm [[Tensorflow2/Keras]](https://github.com/dslisleedh/DualPatchNorm-tensorflow2)
   - ConvNeXt [[Tensorflow2/Keras]](https://github.com/dslisleedh/ConvNeXt-tensorflow2)
   - EnsNet [[Tensorflow2/Keras]](https://github.com/dslisleedh/EnsNet-tensorflow2)
   - MetaFormer(PoolFormer) [[Flax]](https://github.com/dslisleedh/MetaFormer-flax)

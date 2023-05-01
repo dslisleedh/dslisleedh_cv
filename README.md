@@ -14,9 +14,9 @@
 
 ## Career  
  - UST21 (Research & Development department)
-   - AI Engineer (Mar. 2022 ~ current)  
+   - AI Engineer (Mar. 2022 ~ Apr. 2023)  
    - Work experiences  
-     - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ In progress)  
+     - <b>Sea-Surface-Temperature super resolution</b> (July 2022 ~ Apr. 2023)  
        ![SST_SR_result](https://github.com/dslisleedh/dslisleedh_cv/blob/main/sst_sr_result.PNG)
        To upscale SST data from remote sensing, I tested two strategies: SISR and MISR. I chose NAFSR (Non-linear Activate Free Network for Super-Resolution) for SISR because of its simplicity, and TR-MISR for MISR because it is the SOTA model in the unique MISR dataset, PROBA-V. SISR (NAFSR) performed best, with a PSNR gain of +0.97 dB over MISR and +1.34 dB over bicubic interpolation at scale 4. 
        

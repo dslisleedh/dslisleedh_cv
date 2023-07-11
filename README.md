@@ -9,7 +9,7 @@
   
   <b>Phone:</b> +82-10-2998-5715  
   
-  <b>Email:</b> dslisleedh@gmail.com, dslisleedh@ust21.co.kr
+  <b>Email:</b> dslisleedh@gmail.com
 </div>
 
 ## Career  

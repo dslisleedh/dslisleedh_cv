@@ -32,6 +32,9 @@
       We've considered 2 ways to detect anomalies in maritime AIS data: time-series based anomaly detection and image-based anomaly detection.
 I tested image-based anomaly detection, which converts AIS data into track images and uses them as a feature for computational efficiency. It was hard to use existing research because our ROI covered the whole Daehan Strait and Mokpo Sea, but their ROI was only within a specific port. So I proposed a new model architecture which can recognize both track's shape and position in ROI and It showed better performance than time-series based model in our test dataset.
 
+## Papers
+ - Arbitrary-Scale Downscaling of Tidal Current Data Using Implicit Continuous Representation ([Arxiv](https://arxiv.org/abs/2401.15893))
+   
 ## Education  
  - <b>Kangnam Univ.</b> (Mar. 2016 ~ Feb. 2022)  
    - Department of Library Information Science  

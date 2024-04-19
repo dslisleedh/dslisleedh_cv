@@ -34,6 +34,7 @@ I tested image-based anomaly detection, which converts AIS data into track image
 
 ## Papers
  - Arbitrary-Scale Downscaling of Tidal Current Data Using Implicit Continuous Representation ([Arxiv](https://arxiv.org/abs/2401.15893))
+ - PLKSR: Partial Large Kernel CNNs for Efficient Super-Resolution ([Arxiv](https://arxiv.org/pdf/2404.11848.pdf))
    
 ## Education  
  - <b>Kangnam Univ.</b> (Mar. 2016 ~ Feb. 2022)  

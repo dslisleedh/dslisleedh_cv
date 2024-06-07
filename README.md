@@ -5,11 +5,8 @@
 </h1>
 
 <div align="right">
-  <b>Birth:</b> 12/22/1997 
-  
-  <b>Phone:</b> +82-10-2998-5715  
-  
-  <b>Email:</b> dslisleedh@gmail.com
+  <b>Birth:</b> 12/22/1997   
+  <b>Email:</b> dslisleedh@gmail.com, dslisleedh@uos.ac.kr
 </div>
 
 ## Career  
@@ -38,15 +35,19 @@ I tested image-based anomaly detection, which converts AIS data into track image
    
 ## Education  
  - <b>Kangnam Univ.</b> (Mar. 2016 ~ Feb. 2022)  
+   - B.S. degree
    - Department of Library Information Science  
    - Thesis: Analysis of book characteristics that affect book lending 
-   - GPA: 3.58 / 4.5  
+   - GPA: 3.58 / 4.5
+ - <b>University of Seoul</b> (Sep. 2023 ~ )
+   - M.S. studuent
+   - Department of Artificial Intelligence
 
 ## Research Interests  
  - Computer Vision
-   - Low-level vision task  
- - Generative Models  
- - Low-complexity models
+ - Image Processing
+   - Super-Resolution   
+ - Computational Efficiency
  
  <details>
  <summary> <b>Model Implementations(Click!)</b> </summary>

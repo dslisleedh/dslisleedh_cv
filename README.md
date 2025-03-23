@@ -33,7 +33,7 @@
  - Arbitrary-Scale Downscaling of Tidal Current Data Using Implicit Continuous Representation ([[IEEE Access]](https://arxiv.org/abs/2401.15893), 2024)
  - PLKSR: Partial Large Kernel CNNs for Efficient Super-Resolution ([[Arxiv]](https://arxiv.org/pdf/2404.11848.pdf), 2024)
  - IGConv: Implicit Grid Convolution for Multi-Scale Image Super-Resolution ([[Arxiv]](https://arxiv.org/pdf/2408.09674v1), 2024)
- - ESC: Emulating Self-attention with Convolution for Efficient Image Super-Resolution ([[Arxiv]](https://arxiv.org/abs/2503.06671), 2024)
+ - ESC: Emulating Self-attention with Convolution for Efficient Image Super-Resolution ([[Arxiv]](https://arxiv.org/abs/2503.06671), 2025)
    
 ## Education  
  - <b>Kangnam Univ.</b> (Mar. 2016 ~ Feb. 2022)  

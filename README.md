@@ -43,6 +43,8 @@
  - <b>University of Seoul</b> (Sep. 2023 ~ Now)
    - M.S. student
    - Department of Artificial Intelligence
+   - Thesis: Designing Lightweight Architectures for Image Super-Resolution [[Link]](https://www.riss.kr/link?id=T17266379
+)
 
 ## Research Interests  
  - Computer Vision
